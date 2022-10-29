@@ -1,0 +1,32 @@
+[
+    {
+        "fecha": "2022-10-05T15:30:00.000Z",
+        "userid": 1,
+        "email": "a@a.com",
+        "branchId": 1
+    },
+    {
+        "fecha": "2022-10-05T16:30:00.000Z",
+        "userid": 2,
+        "email": "b@a.com",
+        "branchId": 1
+    },
+    {
+        "fecha": "2022-10-05T17:30:00.000Z",
+        "userid": 3,
+        "email": "c@a.com",
+        "branchId": 2
+    },
+    {
+        "fecha": "2022-10-05T18:30:00.000Z",
+        "userid": 4,
+        "email": "d@a.com",
+        "branchId": 2
+    },
+    {
+        "id": 2553333555,
+        "fecha": "2022-10-06T16:30:00.000Z",
+        "email": "p@p.com",
+        "branchId": 2
+    }
+]

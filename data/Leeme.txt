@@ -1,0 +1,6 @@
+* En el archivo turnos.json se encuentran los turnos tomados por los clientes
+* En el archivo turnos disponibles, se encuentran los turnos disponibles por fecha, horario y branchId.
+* Cada vez que se reserve un turno, de debe eliminar el mismo de la lista de turnos disponibles y agregar a la lista de turnos.
+
+
+* En el archivo turnos_disponibles_orig.json hay una copia sin alterar de los turnos disponibles para backup. 
